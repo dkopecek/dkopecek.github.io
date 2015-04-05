@@ -2,7 +2,7 @@
 
 title: Trust me, I'm a software engineer.
 locale: en_US
-description: /* TODO: Add site description *\/
+description: "/* TODO: Add site description */"
 logo: site-logo.png
 search: true
 url: https://dkopecek.github.io
