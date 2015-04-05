@@ -2,10 +2,6 @@
 layout: page
 title: Projects
 modified: 2015-04-06 00:02:00+02:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 ## [USBGuard](https://dkopecek.github.ui/dkopecek/usbguard)
