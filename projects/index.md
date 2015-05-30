@@ -10,6 +10,12 @@ The USBGuard software framework helps to protect your computer against rogue USB
 
 *URL*: [https://dkopecek.github.io/usbguard/](https://dkopecek.github.io/usbguard/)
 
+## [pgl](https://github.com/dkopecek/pgl)
+
+A C++ library that provides an API which simplifies the task of process isolation implementation.
+
+*URL*: [https://github.com/dkopecek/pgl](https://github.com/dkopecek/pgl)
+
 ## [libfasta](https://github.com/dkopecek/libfasta)
 
 An open source library for parsing FASTA files.
