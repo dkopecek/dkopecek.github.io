@@ -12,7 +12,7 @@ The USBGuard software framework helps to protect your computer against rogue USB
 
 ## [pgl](https://github.com/dkopecek/pgl)
 
-A C++ library that provides an API which simplifies the task of process isolation implementation.
+A C++ library that simplifies implementation of process isolation and privilege separation.
 
 *URL*: [https://github.com/dkopecek/pgl](https://github.com/dkopecek/pgl)
 
